@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Aykut Asil
 
-<a href="https://app.daily.dev/aykuttasil"><img src="https://api.daily.dev/devcards/088362fb8372408fa924fdc6d6709338.png?r=8w3" width="400" alt="Aykut Asil's Dev Card"/></a>r=8w3
+<a href="https://app.daily.dev/aykuttasil"><img src="https://api.daily.dev/devcards/088362fb8372408fa924fdc6d6709338.png?r=8w3" width="400" alt="Aykut Asil's Dev Card"/></a>
 
 <!--
 **aykuttasil/aykuttasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
