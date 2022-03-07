@@ -1,7 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Aykut</h1>
-<h3 align="center">A passionate software developer from Turkey. I'm interested all of the things about software but my first priority is Mobile Development(Android & Flutter))</h3>
+<h3 align="center">A passionate software developer from Turkey. I'm interested all of the things about software but my first priority is Mobile Development(Android & Flutter)</h3>
 
 <p align="left"> <a href="https://twitter.com/aykuttasil" target="blank"><img src="https://img.shields.io/twitter/follow/aykuttasil?logo=twitter&style=for-the-badge" alt="aykuttasil" /></a> </p>
 
