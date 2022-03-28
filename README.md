@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android, Flutter, Blockchain**
 
-- 📝 I regularly write articles on [https://yazilim.aykutasil.com/post/](https://yazilim.aykutasil.com/)
+- 📝 I regularly write articles on [my website.](https://yazilim.aykutasil.com/)
 
 - 💬 Ask me about **Android, Flutter, Web**
 
