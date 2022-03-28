@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **various mobile and web projects.**
 
-- 🌱 I’m currently learning **Android, Compose, Flutter**
+- 🌱 I’m currently learning **Android, Flutter, Blockchain**
 
-- 📝 I regularly write articles on [https://yazilim.aykutasil.com/post/](https://yazilim.aykutasil.com/post/)
+- 📝 I regularly write articles on [https://yazilim.aykutasil.com/post/](https://yazilim.aykutasil.com/)
 
 - 💬 Ask me about **Android, Flutter, Web**
 
