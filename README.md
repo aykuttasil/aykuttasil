@@ -7,29 +7,38 @@
 
 - 🔭 I’m currently working on **various mobile and web projects.**
 
-- 🌱 I’m currently learning **Android, Flutter, Blockchain**
+- 🌱 I’m currently learning **AI and tech things**
 
 - 📝 I regularly write articles on [my website.](https://yazilim.aykutasil.com/)
 
-- 💬 Ask me about **Android, Flutter, Web**
+- 💬 Ask me about **Flutter, Mobile, AI**
 
 - 📫 How to reach me **aykuttasil@gmail.com**
 
-- ⚡ Fun fact **motorcycles, camping, riding, traveling**
+- ⚡ Fun fact **motorcycles,riding,camping,traveling,van life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aykuttasil" height="30" width="40" /></a>
-<a href="https://dev.to/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aykuttasil" height="30" width="40" /></a>
-<a href="https://twitter.com/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aykuttasil" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aykuttasil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3399018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3399018" height="30" width="40" /></a>
-<a href="https://fb.com/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aykuttasil" height="30" width="40" /></a>
+
+<a href="https://twitter.com/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aykuttasil" height="30" width="40" /></a>
 <a href="https://instagram.com/kilavuzsuzrota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kilavuzsuzrota" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aykuttasil" height="30" width="40" /></a>
-<a href="https://medium.com/@aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aykuttasil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kilavuzsuzrota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kilavuzsuzrota" height="30" width="40" /></a>
+<a href="https://fb.com/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aykuttasil" height="30" width="40" /></a>
+
+
 <a href="https://www.leetcode.com/aykutasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aykutasil" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3399018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3399018" height="30" width="40" /></a>
+
+
+<a href="https://hashnode.com/@aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aykuttasil" height="30" width="40" /></a>
+<a href="https://dev.to/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aykuttasil" height="30" width="40" /></a>
+<a href="https://medium.com/@aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aykuttasil" height="30" width="40" /></a>
+
+<a href="https://codepen.io/aykuttasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aykuttasil" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
