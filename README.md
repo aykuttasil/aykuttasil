@@ -185,7 +185,7 @@
   </a>
 </p>
 
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://app.daily.dev/aykuttasil">
   <img src="https://github.com/aykuttasil/aykuttasil/blob/main/devcard.svg" width="400" alt="Aykut Asil's Dev Card"/>
 </a>
 
