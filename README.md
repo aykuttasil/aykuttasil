@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI and tech things**
 
-- 📝 I regularly write articles on [my website.](https://yazilim.aykutasil.com/)
+- 📝 I regularly write articles on [my website.](https://blog.aykutasil.com/)
 
 - 💬 Ask me about **Flutter, Mobile, AI**
 
